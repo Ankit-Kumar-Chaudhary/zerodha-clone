@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="w-full bg-white backdrop-blur-md shadow-sm fixed top-0 left-0 z-50">
       <div className="max-w-7xl mx-auto flex items-center justify-between py-4 px-6">
         {/* Logo */}
-        <Link to="/" className="flex items-center gap-2 group">
+        <Link to="/zerodha-clone" className="flex items-center gap-2 group">
           <img
             src="https://zerodha.com/static/images/logo.svg"
             alt="Zerodha Logo"
