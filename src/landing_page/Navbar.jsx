@@ -9,7 +9,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between py-4 px-6">
         {/* Logo */}
         <Link
-          to="https://ankit-kumar-chaudhary.github.io/zerodha-clone/"
+          to="https://ankit-kumar-chaudhary.github.io/"
           className="flex items-center gap-2 group"
         >
           <img
